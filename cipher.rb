@@ -20,5 +20,7 @@ end
 
 
 p cipher("What a String!", 5)
-
+p cipher("Bazinga Punks!!!!", 12)
+p cipher("abcd? or ABCD?", 25)
+p cipher("Rock Chalk Jayhawk!", 4)
 
